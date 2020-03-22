@@ -1,0 +1,40 @@
+# Project information
+site_name: "Covid19-CivicTECH SOFTWARE Documentation"
+site_description: 'Documentation of the COVID19-CivicTeam Software'
+site_author: 'Pawel Sikora'
+
+# Navigation bar
+nav:
+        - Overview: 'README.md'
+        - Project Management: 'project_management.md'
+        - Resources:
+                - Backend (API): 'backend.md'
+                - Frontend (Client): 'frontend.md'
+                - Hosting: 'hosting.md'
+        - Contact: 'contact.md'
+        - Links: 'links.md'
+
+# Repo
+repo_name: 'Covid-19 Civictech repo'
+repo_url: 'https://github.com/covid19-civictechTEAM'
+
+extra:
+  repo_icon: 'github'
+
+markdown_extensions:
+        - attr_list
+        - codehilite
+# Theme
+theme:
+       name: 'material'
+
+palette:
+       primary: 'red grey'
+
+# Plugins
+plugins:
+  - search
+  - git-revision-date-localized
+
+# Copyright
+copyright: 'Copyright covid19-civictechTEAM, 2020'
