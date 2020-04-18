@@ -5,7 +5,7 @@
 You can find some examples [here &#x2197;](https://github.com/civictechhub/crawlers) to get started.</br>
 Have questions? Head over to our [slack &#x2197;](https://join.slack.com/t/civictechhub/shared_invite/zt-dlw4duki-LjqG1llwXA8KDodp3x34cg) channel mention @Aneesh or @Niko.
 
-### Wondering what we do with the data? Take a look at the schema
+### Wondering what we do with the data? Take a look at the schema.
 
 # Completed!
 - [x] [Garage48](garage48)
