@@ -26,10 +26,10 @@
   - [Crawlers &#x2197;](https://github.com/civictechhub/crawlers)
 ## Backend
   ### Tech Stack
-  - Looking to contribute? Head over to our help wanted page!
+  - Looking to contribute? Head over to our [help wanted &#x2197;](https://github.com/civictechhub/docs/blob/master/backend/Readme.md) page!
   - Schema
 ## Front end
   ### Tech Stack
-  - Looking to contribute? Head over to our help wanted page!
+  - Looking to contribute? Head over to our [help wanted &#x2197;]()page!
   - [Design &#x2197;](Project/design.md)
 
