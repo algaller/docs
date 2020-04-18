@@ -1,6 +1,6 @@
 ![](fig/civic_tech_hub.png)
 
-# [Civictechhub](https://www.civictechhub.org/)
+# [Civictechhub &#x2197;](https://www.civictechhub.org/)
 
 ## About our organisation:</br>
 
@@ -14,8 +14,8 @@
 
 # Our Tech
 ## Data
-  - Looking to contribute? Head over to our help wanted page!
-  - [Crawlers](https://github.com/civictechhub/crawlers)
+  - Looking to contribute? Head over to our [help wanted &#x2197;](https://github.com/civictechhub/docs/tree/master/data) page!
+  - [Crawlers &#x2197;](https://github.com/civictechhub/crawlers)
 ## Backend
   ### Tech Stack
   - Looking to contribute? Head over to our help wanted page!
@@ -23,5 +23,5 @@
 ## Front end
   ### Tech Stack
   - Looking to contribute? Head over to our help wanted page!
-  - [Design](Project/design.md)
+  - [Design &#x2197;](Project/design.md)
 
