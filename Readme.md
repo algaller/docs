@@ -14,11 +14,14 @@
 
 # Our Tech
 ## Data
+  - Looking to contribute? Head over to our help wanted page!
   - [Crawlers](https://github.com/civictechhub/crawlers)
 ## Backend
   ### Tech Stack
+  - Looking to contribute? Head over to our help wanted page!
   - Schema
 ## Front end
   ### Tech Stack
+  - Looking to contribute? Head over to our help wanted page!
   - [Design](Project/design.md)
 
