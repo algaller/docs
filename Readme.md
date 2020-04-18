@@ -18,7 +18,7 @@
 ## Target market: </br>
   - In general, the target market are people trying to find out what COVID-19 projects and groups exist or are similar to the projects they know of.
 
-# Project Team
+# [Contributors &#x2197;]()
 
 # Our Tech
 ## Data
