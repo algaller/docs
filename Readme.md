@@ -1,4 +1,4 @@
-![](https://www.civictechhub.org/static/media/logo.c0002dca.png)
+![](fig/civic_tech_hub.png)
 
 # [Civictechhub](https://www.civictechhub.org/)
 
