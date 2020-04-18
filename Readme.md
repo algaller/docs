@@ -15,4 +15,5 @@
 # Our Tech
 ## Backend
 ## Front end
+  - [Design](design.md)
 
