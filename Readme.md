@@ -14,6 +14,9 @@
 
 # Our Tech
 ## Backend
+  ### Tech Stack
+  - Schema
 ## Front end
+  ### Tech Stack
   - [Design](Project/design.md)
 
