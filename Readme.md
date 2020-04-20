@@ -3,7 +3,7 @@
 # [Civictechhub &#x2197;](https://www.civictechhub.org/)
 
 ## About our organisation:</br>
-  - CivicTechHub indexes and lists initiatives from more than 29 countries to create visibility of social projects and activities like Covid-19 crisis-inspired hackathon #WirVsVirus, government initiatives and local exchange groups.
+  - CivicTechHub: Search the largest database of projects and organizations dedicated to fighting COVID-19. The COVID-19 pandemic is uncharted territory, and new problems are arising as quickly as the virus is spreading. Thousands of organisations and initiatives are springing into action to serve the global community. Whether you need support, have resources to offer, or just want to see the scope of human ingenuity, CivicTechHub can help you discover the crisis response projects most relevant to you.
   - See the [Medium &#x2197;](https://medium.com/@civictechhub/civictechhub-is-born-679965ce66b7) article for a brief history of the project.
   - Also this [Devpost &#x2197;](https://devpost.com/software/internationale-liste-covid-19-communities-hackathons) project for more details.
 
